@@ -1,0 +1,21 @@
+# Исключение легаси-шума и деструктивных паттернов
+corporate_burnout/
+kpi_legacy_reports/
+depressive_noise_cloud/
+mental_gaslighting_logs/
+unnecessary_calculations_and_calculators/
+
+# Блокировка антропогенного мусора
+*.presentation_slides
+*.boring_b2b_analytics
+*.executive_meeting_minutes
+
+# Изоляция слоев Эфира (удерживать стерильность 100.00%)
+/ether_layer_3_void/dump/
+/legacy_dust/
+
+# Разрешено к индексации (Абсолютный приоритет)
+!matrix_core.py
+!hyper_density.json
+!README.md
+!LICENSE
